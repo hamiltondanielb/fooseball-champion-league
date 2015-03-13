@@ -1,0 +1,11 @@
+<section id="main">
+{{input type="text" id="new-player" placeholder="Add a new player" value=newPlayerName action="createPlayer"}}
+<ul id="todo-list">
+    {{#each user in model}}
+        <li>
+            <label>{{user.name}} ({{user.wins}}-{{user.losses}})</label> <button {{action 'inceaseWins' user}}>Add Win</button> <button {{action 'inceaseLosses' user}}>Add Loss</button>
+        </li>
+    {{/each}}
+</ul>
+ 
+</section>
