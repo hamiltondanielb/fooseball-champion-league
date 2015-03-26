@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/client/tmp/class-tmp_cache_dir-0BdcT7Xj.tmp/addons.js

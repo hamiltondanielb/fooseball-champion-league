@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/client/bower_components/ember-cli-test-loader/test-loader.js

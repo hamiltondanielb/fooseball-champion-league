@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/client/node_modules/ember-cli/lib/broccoli/testem.js

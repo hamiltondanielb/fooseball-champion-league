@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/app/models/user.js

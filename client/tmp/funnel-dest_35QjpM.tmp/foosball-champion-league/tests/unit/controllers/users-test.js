@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/client/tmp/tree_merger-tmp_dest_dir-VRBjlHHw.tmp/foosball-champion-league/tests/unit/controllers/users-test.js

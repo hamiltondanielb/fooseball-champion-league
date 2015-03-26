@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/tmp/custom_static_compiler-tmp_dest_dir-ftUklg4Q.tmp/qunit/qunit/qunit.js

@@ -1,0 +1,1 @@
+/Users/danhamilton/fooseball-champion-league/client/tmp/caching-writer-dest-dir_kbC2en.tmp/assets/foosball-champion-league.js
