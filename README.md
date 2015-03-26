@@ -1,4 +1,5 @@
 # Foosball-champion-league
+[ ![Codeship Status for hamiltondanielb/fooseball-champion-league](https://codeship.com/projects/65512650-b631-0132-95f2-364f89ca8665/status?branch=master)](https://codeship.com/projects/70976)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
