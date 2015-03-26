@@ -1,1 +1,0 @@
-/Users/danhamilton/fooseball-champion-league/client/bower_components/loader.js/

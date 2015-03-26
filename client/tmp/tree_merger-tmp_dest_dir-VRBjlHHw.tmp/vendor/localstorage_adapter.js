@@ -1,1 +1,0 @@
-/Users/danhamilton/fooseball-champion-league/client/node_modules/ember-localstorage-adapter/localstorage_adapter.js
