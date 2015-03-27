@@ -3,10 +3,13 @@
 # compiled output
 /dist
 /tmp
+client/dist
 
 # dependencies
 /node_modules
 /bower_components
+client/node_modules
+client/bower_components
 
 # misc
 /.sass-cache
