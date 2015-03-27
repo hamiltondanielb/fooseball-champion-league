@@ -1,8 +1,9 @@
 require 'test_helper'
 
-class UsersControllerTest < ActionController::TestCase
+class Api::V1::UsersControllerTest < ActionController::TestCase
   setup do
     @user = users(:one)
+     @controller = UsersController.new
   end
 
   test "should get index" do
