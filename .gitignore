@@ -4,6 +4,7 @@
 /dist
 /tmp
 client/dist
+client/tmp
 
 # dependencies
 /node_modules
