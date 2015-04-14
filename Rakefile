@@ -35,7 +35,8 @@ task :deploy do
     sh 'git commit -m "Asset compilation for deployment"'
   end
 
-  sh 'git subtree add'
+
+  sh 'git subtree add --prefix'
   sh 'git subtree push -P api heroku master'
 
 
