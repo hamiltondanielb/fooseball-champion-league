@@ -38,7 +38,7 @@ task :deploy do
   sh 'git subtree push -P api heroku master'
 
 
-  release_output = `heroku releases -a foosball-champion-league -cham `.split "\n"
+  release_output = `heroku releases -a foosball-champion-league`.split "\n"
   latest_release = release_output[1].match(/v\d+/).to_s
 
   tags = `git tag`
