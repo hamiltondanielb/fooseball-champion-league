@@ -35,7 +35,9 @@ task :deploy do
     sh 'git commit -m "Asset compilation for deployment"'
   end
 
+  sh 'git subtree add'
   sh 'git subtree push -P api heroku master'
+
 
   release_output = `heroku releases -a foosball-champion-league -cham `.split "\n"
   latest_release = release_output[1].match(/v\d+/).to_s
